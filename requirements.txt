@@ -1,5 +1,6 @@
-ofxstatement==0.8.0
-# gintsmurans/ofxstatement-latvian
-https://github.com/gintsmurans/ofxstatement-latvian/archive/9d3ddce8fb8bb51c7949f963065ebf2cd5ae31ad.zip
-# ofxstatement-revolut==2.0.0 (contains parser for latest revolut CSV export format)
-https://github.com/mlaitinen/ofxstatement-revolut/archive/946ca2e3eafde22f86d4e4382a4d803aae472c92.zip
+# kedder/ofxstatement @ 2022-08-30
+https://github.com/kedder/ofxstatement/archive/20bbfcc04269506ac1d4c5d7efa4bc4077cfef24/master.zip
+# ssipos90/ofxstatement-ro
+https://github.com/ssipos90/ofxstatement-ro-ing/archive/refs/tags/v0.1.0.zip
+# ofxstatement-revolut==2.0.2-1
+https://github.com/ssipos90/ofxstatement-revolut/archive/refs/tags/v2.0.2-1.zip
